@@ -1373,5 +1373,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [zone-telechargement.com](http://zone-telechargement.com)
 - [zoominfo.com](http://zoominfo.com)
 - [zoomit.ir](http://zoomit.ir)
+- [babasalman.com](http://babasalman.com)
+- [bapazeem.com](http://bepazeem.com)
 - [zurb.com](http://zurb.com)
 - [zwaar.net](http://zwaar.net)
